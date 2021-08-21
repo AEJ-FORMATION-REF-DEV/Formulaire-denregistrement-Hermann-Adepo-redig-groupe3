@@ -1,0 +1,16 @@
+.titre{
+    color: red;
+}
+input{
+    margin: 10px;
+}
+body{
+    white-space: normal;
+    margin-top: 15px;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right : 15%;
+}
+fieldset{
+    width: 200px;
+}
